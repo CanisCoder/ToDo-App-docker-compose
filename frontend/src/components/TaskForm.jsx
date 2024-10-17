@@ -23,7 +23,7 @@ const TaskForm = ({addTask}) => {
             <input type="text" placeholder="Add Task"
             value={task} onChange={(e) => setTask(e.target.value)}/>
         </div>
-        <button className="save-btn">Save Task</button>
+        <button className="save-btn">Save Job</button>
     </form>
   )
 }
