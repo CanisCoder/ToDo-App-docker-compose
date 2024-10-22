@@ -8,7 +8,8 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #f4f4f9; /* Light background for contrast */
+  background-color: #f4f4f9; /* Background */
+  color: #8e44ad; /* Text */
 }
 
 .container {
